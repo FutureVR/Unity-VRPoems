@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9856b1271558dfd4d81ff953158a2b2c
+timeCreated: 1480152464
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lane: {fileID: 100000, guid: f3f099a1e77db0f43b8f3e7fe072979b, type: 2}
+  - intersection: {fileID: 100000, guid: 6abaadc8b9590114b85efdcd4aceae2a, type: 2}
+  - end: {fileID: 100000, guid: 46aceb8c4fbd8a3478e3bb41629a9afd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
